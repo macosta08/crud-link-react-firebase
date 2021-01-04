@@ -1,7 +1,8 @@
 # CRUD con Create React App y Firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aplicación para guardar enlaces realizada con [React y Cloud Firestore](https://link-app-react-firebase.netlify.app/).
 
-## Available Scripts
+## Los Hooks utilizados:
 
-In the project directory, you can run:
+- useState
+- useEffect
